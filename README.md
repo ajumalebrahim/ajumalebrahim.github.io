@@ -31,3 +31,7 @@ All local paths are relative, so the site also works under a GitHub Pages projec
 - The downloadable original CV includes the phone numbers, email, and LinkedIn profile authorised by the user for public display.
 
 No analytics, cookies, backend, or contact form service is configured. Email and phone links open the visitor’s own apps.
+
+## Engineering stories
+
+The portfolio includes case studies for Talabat and Alraedah Finance, scope notes for reported metrics, and conceptual BFF, Flutter/Riverpod, and recovery-flow diagrams. Career details are drawn from the supplied CV and Ajumal’s follow-up explanations. Ajumal confirmed that the CV’s Alraedah Service app is Alraedah Finance, clarified that the 40% maintenance-effort reduction relates to lower developer staffing after Flutter adoption and faster feature delivery, and supplied the application-recovery example. The recovery example is not assigned to a particular employer because none was specified. Diagrams explain the approaches and are not exact proprietary system designs.
