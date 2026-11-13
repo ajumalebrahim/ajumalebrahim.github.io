@@ -24,7 +24,7 @@ All local paths are relative, so the site also works under a GitHub Pages projec
 ## Content and image sources
 
 - Career history, achievements, education, skills, and portrait are taken from the CV supplied by Ajumal Ebrahim. Current employment and figures reflect that CV.
-- Talabat app images come from the official Apple App Store listing and Apple lookup API for app ID 451001072: https://apps.apple.com/us/app/talabat-food-grocery-more/id451001072
+- Three high-resolution Talabat screenshots with full-size viewing links come from the official Apple App Store listing and Apple lookup API for app ID 451001072: https://apps.apple.com/us/app/talabat-food-grocery-more/id451001072
 - Talabat imagery is current promotional imagery, not a record of the app UI during Ajumal’s 2015–2023 tenure. The website labels that distinction. Talabat marks and imagery belong to their respective owners.
 - Fonts: DM Sans and Manrope, loaded through Google Fonts with system fallbacks.
 - Alraedah Finance gallery: three original promotional screenshots supplied by Ajumal Ebrahim, showing the financing overview, transactions, and sales insights. Images are preserved as supplied and open at full resolution when selected.
